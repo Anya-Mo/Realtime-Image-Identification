@@ -1,0 +1,51 @@
+body {
+    font-family: 'Handlee', cursive;
+}
+.heading {
+    font-size: 30px;
+    width: 100%;
+    box-shadow: -1px 6px 3px 3px darkcyan;
+    margin-top: -1px;
+}
+.heading_div {
+    float: none;
+    background-color: darkcyan;
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.heading_div2 {
+    font-size: 20px;
+    float: none;
+    color: black;
+}
+.result_para_tag {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid black;
+}
+.result_para_tag:hover {
+    background-color: pink;
+    color: black;
+    border: 2px solid black;
+}
+.copy_write_footer {
+    background-color: powderblue;
+    color: black;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 300px;
+}
+canvas {
+    border: 5px solid black;
+    margin-top: 175px;
+    position: absolute;
+    top: 205px;
+}
